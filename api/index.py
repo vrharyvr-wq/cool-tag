@@ -1,4 +1,4 @@
-wimport requests
+import requests
 import random
 from flask import Flask, jsonify, request
 import json
@@ -205,7 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO COOL TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: LAVA23</color>\n<color=#cacfd2>OWNERS: ZENON, PAUL THE PENGUIN, ADR</color>\n<color=#41ff80>ZENON MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: ZENON</color>\n<color=#ac1a00>tuff</color>\n\n<color=#91A3B0>U A FEMBOY</color>",
+        "MOTD": "<color=#FFC0CB>WELCOME TO CHRISTMAS TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: FATAL & CASHSMILE</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: VIPER</color>\n\n<color=#91A3B0>discord.gg/CHRISTMASTAG</color>",
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
         "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
         "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
